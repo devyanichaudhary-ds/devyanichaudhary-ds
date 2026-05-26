@@ -15,7 +15,7 @@ Currently building toward ML — one notebook at a time.
 ---
 
 ### 🛠 Tech Stack
-`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `Scikit-learn (soon)`
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `Scikit-learn`
 
 ---
 
