@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Devyani 👋
 
-<!--
-**devyanichaudhary-ds/devyanichaudhary-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python · SQL · Data Analysis · ML (in progress)**
 
-Here are some ideas to get you started:
+🟢 Open to opportunities &nbsp;|&nbsp; 📍 India &nbsp;|&nbsp; ⚡ Currently learning Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I'm a data enthusiast who believes in **learning by doing**.  
+I work with Python, SQL, and data libraries to explore, analyze, and visualize data.  
+Currently building toward ML — one notebook at a time.
+
+> *"Learning. Writing code. Trusting the process."*
+
+---
+
+### 🛠 Tech Stack
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `Scikit-learn (soon)`
+
+---
+
+### 📌 Featured Projects
+| Project | Description |
+|---|---|
+| [DATA-ANALYSIS-PROJECT](https://github.com/devyanichaudhary-ds/DATA-ANALYSIS-PROJECT) | EDA using pandas, numpy, matplotlib & seaborn |
+| [final-coursera-project](https://github.com/devyanichaudhary-ds/final-cousera-project) | Stock market data — IBM Data Science Capstone |
+| [PYTHON-with-Code-With-HARRY](https://github.com/devyanichaudhary-ds/PYTHON-with-Code-With-HARRY) | Python fundamentals practice notebooks |
+
+---
+
+⭐ If you find my work helpful, feel free to star a repo!
